@@ -3,6 +3,47 @@
 **Author**: Bocaletto Luca Aka Elektronoide
 ![Screenshot 2023-10-08 165730](https://github.com/elektronoide/Event-Calendar-Free/assets/134635227/9c4ea3e2-d32e-4267-aee8-54b053827775)
 
+# Event Calendar Free
+
+**Author**: Bocaletto Luca
+
+## Description
+
+Event Calendar Free is an event management application based on a Graphical User Interface (GUI) developed using the PyQt5 framework. This application allows users to view, add, and delete events on an interactive calendar.
+
+## Key Features
+
+1. **Interactive Calendar**: The application features an interactive calendar that enables users to select a specific date by clicking on it.
+
+2. **Event Display**: When a user selects a date on the calendar, the application displays a dedicated window titled "Events for [Selected Date]" that shows the events associated with that date.
+
+3. **Event Addition**: Users can add new events by entering a name and description for the event and clicking the "Add Event" button. These events are stored in an SQLite database.
+
+4. **Event Deletion**: Users can delete events by selecting the corresponding rows in the event table and clicking the "Delete Event" button. Deleted events are removed from the SQLite database.
+
+5. **Event Details Display**: Events are displayed in a table that shows the event's ID, name, and description. These details help users identify and manage events.
+
+6. **Data Persistence**: Event data is stored in an SQLite database named 'events.db,' allowing users to access events even after closing and reopening the application.
+
+7. **Input Validation**: The application includes validation to ensure that users enter at least the event name before adding it.
+
+## Usage
+
+1. Upon startup, the application displays an interactive calendar.
+
+2. Users can select a specific date by clicking on it in the calendar.
+
+3. When a date is selected, a separate window is displayed showing the events associated with that date.
+
+4. Users can add new events by entering the event name and description and clicking "Add Event."
+
+5. Users can delete events by selecting the corresponding rows in the event table and clicking "Delete Event."
+
+6. All events are persistently stored in the 'events.db' database, allowing for future reference.
+
+Event Calendar Free provides a simple and intuitive solution for personal event management, enabling users to organize and plan their daily activities.
+
+# Italiano
 ## Descrizione
 
 Event Calendar Free è un'applicazione per la gestione degli eventi basata su una GUI (Interfaccia Grafica Utente) sviluppata utilizzando il framework PyQt5. Questa applicazione consente agli utenti di visualizzare, aggiungere ed eliminare eventi in un calendario interattivo.
