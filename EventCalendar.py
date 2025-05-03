@@ -1,6 +1,5 @@
 # Nome del software: Event Calendar Free
 # Autore: Bocaletto Luca
-
 # Importa le librerie necessarie
 import sys
 import sqlite3
