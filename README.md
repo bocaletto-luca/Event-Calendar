@@ -41,3 +41,13 @@ Event Calendar Free is an event management application based on a Graphical User
 6. All events are persistently stored in the 'events.db' database, allowing for future reference.
 
 Event Calendar Free provides a simple and intuitive solution for personal event management, enabling users to organize and plan their daily activities.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
